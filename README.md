@@ -1,3 +1,3 @@
 # perfmarker
 
-## Used to run pe  rformance tests and Benchmark servers.
+## Used to run performance tests and Benchmark servers.
